@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt Cache
+name: Build OpenWrt lede Cache
 
 on:
   repository_dispatch:
